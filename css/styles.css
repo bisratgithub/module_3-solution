@@ -1,0 +1,16 @@
+
+body {background: #fff;}
+
+.navbar-brand span{font-family: Helvetica; font-size: 2em;color: black;}
+
+
+ h2 {font-weight: 400px;}
+
+#header-nav{ background:darkgray; border-radius: 0; border: solid black; 
+			border-width: 2px 0px 2px; height: 70px;}
+.row {text-align: center; height: auto; background: darkgray;}
+
+#nav-list {position: relative; margin-top: 10px; background: #fff; font-size: 1.5em; 
+	text-align: center; font-weight: 400; border: 0px; z-index: 2; border: solid black 1px;}
+#nav-list a:hover {background: darkgray; z-index: 2;}
+.menu-items {border: solid black 1px;}
